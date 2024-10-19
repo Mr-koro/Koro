@@ -91,15 +91,15 @@ handlerCheckData.cantCreateUser=Users with id '%1' cannot be written to the data
 # bot/handler/handlerEvents.js
 handlerEvents.userBanned=You have been banned from using the bot\n» Reason: %1\n» Time: %2\n» User ID: %3
 handlerEvents.threadBanned=This group has been banned from using the bot\n» Reason: %1\n» Time: %2\n» Thread ID: %3
-handlerEvents.onlyAdminBox=Ce groupe est actuellement activé, seuls les administrateurs de groupe peuvent m'utiliser 🔥
-handlerEvents.onlyAdminBot=❌ | Seule mon maître peut m'utiliser pour l'instant 🔥
-handlerEvents.commandNotFound=La commande "%1" n'existe pas pour l'instant, utilise %2help pour voir les commandes disponibles 🔥.
-handlerEvents.commandNotFound2= ℹ️ 𝗕𝗢𝗧 𝗦𝗢𝗨𝗥𝗖𝗘 ℹ️ \n══════════════════\n𝗕𝗢𝗧:🔥𖠸𝑆𝐻𝐼𝑁𝑅𝐴㉨𝐾𝑈𝑆𝐴𝐾𝐴𝐵𝐸𖠸🔥\n══════════════════\n🔥𝗕𝗢𝗧 𝗟𝗜𝗡𝗞: https://www.facebook.com/profile.php?id=61566852243051\n══════════════════\n 👑 𝗖𝗿𝗲𝗮𝘁𝗼𝗿: ʬɸʬ 𝗦𝗛𝗜𝗭𝗨𝗞𝗔 𝗝𝗨𝗡𝗜𝗢𝗥 ʬɸʬ \n══════════════════\n 👑 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗟𝗜𝗡𝗞 : https://www.facebook.com/shizuka.junior.KING \n══════════════════
+handlerEvents.onlyAdminBox=Ce groupe est actuellement activé, seuls les administrateurs de groupe peuvent m'utiliser\n═══════════════\n😁...𝗸𝗼𝗿𝗼 𝘀𝗲𝗻𝘀𝗲𝗶...😁 
+handlerEvents.onlyAdminBot=❌ | Seule l'administrateur peut m'utiliser pour l'instant 
+handlerEvents.commandNotFound=La commande "%1" n'existe pas pour l'instant, utilise %2help pour voir les commandes disponibles\n═══════════════\n😁...𝗸𝗼𝗿𝗼 𝘀𝗲𝗻𝘀𝗲𝗶...😁
+handlerEvents.commandNotFound2= ℹ️ 𝗕𝗢𝗧 𝗦𝗢𝗨𝗥𝗖𝗘 ℹ️ \n══════════════════\n𝗕𝗢𝗧:✿...𝗸𝗼𝗿𝗼 𝘀𝗲𝗻𝘀𝗲𝗶...✿\n══════════════════\n🔥𝗕𝗢𝗧 𝗟𝗜𝗡𝗞: https://www.facebook.com/profile.php?id=61567257663172\n══════════════════\n 👑 𝗖𝗿𝗲𝗮𝘁𝗼𝗿: ʬɸʬ 𝗦𝗛𝗜𝗭𝗨𝗞𝗔 𝗝𝗨𝗡𝗜𝗢𝗥 ʬɸʬ \n══════════════════\n 👑 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗟𝗜𝗡𝗞 : https://www.facebook.com/shizuka.junior.KING \n══════════════════
 handlerEvents.commandSyntaxError=The command you are using is wrong syntax, please type %1help %2 to see the details of how to use this command
 handlerEvents.onlyAdmin=❌ | Seule les administrateurs du groupe peuvent utiliser la commande "%1" 
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1"
 handlerEvents.onlyAdminToUseOnReaction=❌ | Only group administrators can use the reaction function of the command "%1"
-handlerEvents.onlyAdminBot2=❌ | Seule mon maître peut utiliser la commande  "%1" 🔥
+handlerEvents.onlyAdminBot2=❌ | Seule mon créateur et ses collègues peuvent utiliser la commande  "%1"\n═══════════════\n😁...𝗸𝗼𝗿𝗼 𝘀𝗲𝗻𝘀𝗲𝗶...😁
 handlerEvents.onlyAdminBot2ToUseOnReply=❌ | Only bot's admin can use the reply function of the command "%1"
 handlerEvents.onlyAdminBot2ToUseOnReaction=❌ | Only bot's admin can use the reaction function of the command "%1"
 handlerEvents.waitingForCommand= Veuillez patienter %1 secondes svp....
